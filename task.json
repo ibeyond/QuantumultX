@@ -1,6 +1,6 @@
 {
     "name": "quantumultX Task",
-    "description": "自用定时任务",
+    "description": "定时任务",
     "task": [
 "0 7,17 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js, tag=切换会话, img-url=https://raw.githubusercontent.com/iEwha/QuantumultX/master/icon/box.png, enabled=true",
 "1 6-20/2 * * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/caiyun.js, tag=彩云天气, img-url=https://raw.githubusercontent.com/iEwha/QuantumultX/master/icon/caiyun.png, enabled=true",
