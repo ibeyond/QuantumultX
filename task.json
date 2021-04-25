@@ -27,9 +27,11 @@
 "0,30 0-23 * * * https:\/\/cdn.jsdelivr.net\/gh\/ziye888\/JavaScript@main\/Task\/bububao.js, tag=步步宝, img-url=https://raw.githubusercontent.com/iEwha/QuantumultX/master/icon/bububao.png, enabled=true",
 "5,35 0-23 * * * https:\/\/cdn.jsdelivr.net\/gh\/ziye888\/JavaScript@main\/Task\/qmyd.js, tag=全民悦动,img-url=https://raw.githubusercontent.com/iEwha/QuantumultX/master/icon/qmyd.png, enabled=true",
 "20 18 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/xmSports.js, tag=小米运动,img-url=https://raw.githubusercontent.com/iEwha/QuantumultX/master/icon/xmSports.png, enabled=true",
+
 "1 0-23/1 * * * https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/jd_super_redrain.js
 , tag=整点京豆雨,img-url=https://raw.githubusercontent.com/iEwha/QuantumultX/master/icon/jd_bean_home.png, enabled=true",
+
 "4 10 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_market_lottery.js
-, tag=幸运大转盘, enabled=true"
+, tag=幸运大转盘, enabled=true",
     ]
 }
