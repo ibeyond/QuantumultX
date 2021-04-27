@@ -5,7 +5,7 @@
 "0 7,17 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js, tag=切换会话, img-url=https://raw.githubusercontent.com/iEwha/QuantumultX/master/icon/box.png, enabled=true",
 "1 6-20/2 * * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/caiyun.js, tag=彩云天气, img-url=https://raw.githubusercontent.com/iEwha/QuantumultX/master/icon/caiyun.png, enabled=true",
 "*/1 7-8 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js, tag=中青看点极速版, img-url=https://raw.githubusercontent.com/iEwha/QuantumultX/master/icon/youth.png, enabled=true",
-"20 5 10 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth_gain.js, tag= 中青浏览赚, img-url=https://raw.githubusercontent.com/iEwha/QuantumultX/master/icon/youth.png, enabled=true",
+"20 5 10 * * * https://raw.githubusercontent.com/iEwha/QuantumultX/master/Script/youth_banner.js, tag= 中青浏览赚, img-url=https://raw.githubusercontent.com/iEwha/QuantumultX/master/icon/youth.png, enabled=true",
 "1,3 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东多合一签到, img-url=https://raw.githubusercontent.com/iEwha/QuantumultX/master/icon/jd.png, enabled=true",
 "1 7-21/2 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_plantBean.js, tag=种豆得豆, img-url=https://raw.githubusercontent.com/iEwha/QuantumultX/master/icon/jdzd.png, enabled=true",
 "10 0 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_shop.js, tag=进店领豆, img-url=https://raw.githubusercontent.com/iEwha/QuantumultX/master/icon/jd_shop.png, enabled=true",
