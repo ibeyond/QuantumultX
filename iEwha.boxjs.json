@@ -1,0 +1,24 @@
+{
+  "id": "iEwha.app.sub", 
+  "author": "@iEwha", 
+  "icon": "https://avatars.githubusercontent.com/u/81971510?s=40&v=4", 
+  "name": "iEwha签到应用订阅", 
+  "repo": "https://github.com/iEwha/QuantumultX/tree/master", 
+  "apps": [
+    {
+      "author": "@iEwha", 
+      "keys": [
+        "youth_start", 
+        "youth_look"
+      ], 
+      "repo": "https://github.com/iEwha/QuantumultX/blob/master/Script/youth_gain.js", 
+      "id": "youthGain", 
+      "script": "https://raw.githubusercontent.com/iEwha/QuantumultX/master/Script/youth_gain.js", 
+      "name": "中青浏览赚&看看赚", 
+      "icons": [
+        "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Alpha/youth.png", 
+        "https://cdn.jsdelivr.net/gh/Orz-3/mini@master/Color/youth.png"
+      ]
+    }, 
+  ]
+}
