@@ -10,6 +10,6 @@
  * [@Koolson](https://github.com/Koolson/Qure)
  * [@Cuttlefish](https://github.com/ddgksf2013/Cuttlefish)
  * [@zZPiglet](https://github.com/zZPiglet)
- * [@Sunert](https://github.com/Sunert/Scripts)
+ * [@Sunert](https://github.com/Sunert)
  * [@DivineEngine](https://github.com/DivineEngine/Profiles/tree/master)
  * [@whyour](https://github.com/whyour)
