@@ -23,6 +23,7 @@
 "*/51 * * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_dreamFactory.js, tag=京喜工厂, img-url=https://raw.githubusercontent.com/iEwha/QuantumultX/master/icon//jdgc.png, enabled=true",
 "5 */1 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jdfactory.js, tag=东东工厂, img-url=https://raw.githubusercontent.com/iEwha/QuantumultX/master/icon/jd_factory.png, enabled=true",
 "1 7-21/2 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_plantBean.js, tag=种豆得豆, img-url=https://raw.githubusercontent.com/iEwha/QuantumultX/master/icon/jdzd.png, enabled=true",
+"1 0-23/1 * * * https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/jd_super_redrain.js, tag=整点京豆雨, enabled=true",
 "10 7 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_bean_home.js, tag=领京豆额外奖励, img-url=https://raw.githubusercontent.com/iEwha/QuantumultX/master/icon/jd_bean_home.png, enabled=true",
 "20 18 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/xmSports.js, tag=小米运动,img-url=https://raw.githubusercontent.com/iEwha/QuantumultX/master/icon/xmSports.png, enabled=true",
 "1 0-23/1 * * * https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/jd_super_redrain.js, tag=整点京豆雨,img-url=https://raw.githubusercontent.com/iEwha/QuantumultX/master/icon/jd_bean_home.png, enabled=true",
