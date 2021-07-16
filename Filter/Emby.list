@@ -1,3 +1,5 @@
+# >emby解锁分流
+host-suffix,mb3admin.com,PROXY
 # > 流媒体emby-nexitally服务器
 DOMAIN-KEYWORD,emby.nexitally.com, Emby
 
