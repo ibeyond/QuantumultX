@@ -1,7 +1,7 @@
 # quantumultX
 修改的圈X懒人配置，搬运大佬们的图标&脚本。
 #### 感谢以下大佬的贡献 ：
- * [@NobyDa](https://github.com/NobyDa) 
+ * [@NobyDa](https://github.com/NobyDa/Script/tree/master) 
  * [@yichahucha](https://github.com/yichahucha)
  * [@Choler](https://github.com/Choler)
  * [@chavyleung](https://github.com/chavyleung)
