@@ -1,7 +1,9 @@
 /*
 仅更改手机端百度全站的 User-Agent。
 [Script]
-^https?:\/\/(?!d\.pcs).*(?<!map)\.baidu\.com url script-request-header https://raw.githubusercontent.com/iEwha/QuantumultX/master/Script/BaiduChangeUA.js
+BaiduChangeUA = type=http-request,pattern=^https?:\/\/(?!d\.pcs).*(?<!map)\.baidu\.com,script-path=https://raw.githubusercontent.com/iEwha/QuantumultX/master/Script/BaiduChangeUA.js
+
+QX: ^https?:\/\/(?!d\.pcs).*(?<!map)\.baidu\.com url script-request-header https://raw.githubusercontent.com/iEwha/QuantumultX/master/Script/BaiduChangeUA.js
 [MITM]
 hostname = *.baidu.com
  */
