@@ -9,6 +9,6 @@
  * [@Koolson](https://github.com/Koolson/Qure)
  * [@Cuttlefish](https://github.com/ddgksf2013/Cuttlefish)
  * [@zZPiglet](https://github.com/zZPiglet)
- * [@Sunert](https://github.com/Sunert)
+ * [@Sunert](https://github.com/Sunert/Script/tree/master)
  * [@DivineEngine](https://github.com/DivineEngine/Profiles/tree/master)
 
