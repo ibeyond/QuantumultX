@@ -2,8 +2,7 @@
 圈X配置，搬运的图标&脚本。
 #### 感谢以下大佬的贡献 ：
  * [@NobyDa](https://github.com/NobyDa/Script/tree/master) 
- * [@yichahucha](https://github.com/yichahucha)
- * [@Choler](https://github.com/Choler)
+ * [@Choler](https://github.com/Choler/Surge)
  * [@chavyleung](https://github.com/chavyleung)
  * [@Orz-3](https://github.com/Orz-3)
  * [@Koolson](https://github.com/Koolson/Qure)
